@@ -1,0 +1,9 @@
+@import "styles/styles";
+@import "styles/common/shared";
+
+.outer-container {
+  max-width: 960px;
+  width: 80%;
+  margin: auto;
+  color: $purple;
+}
